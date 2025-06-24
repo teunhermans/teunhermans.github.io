@@ -43,4 +43,5 @@ A few smaller projects to get hands-on with reinforcement learning techniques:
 ## 📫 Contact
 
 Feel free to reach out at: **teunhermans@gmail.com**
+Or download my resume! (cv_teun_hermans.pdf)
 
