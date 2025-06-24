@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I'm [Teun]
+# 👋 Hi, I'm Teun
 
-Welcome to my project portfolio!
+Welcome to my github page!
 
 I am a graduating Data Science student, in the past years, I have worked on many projects. Below are a few of them!
 
